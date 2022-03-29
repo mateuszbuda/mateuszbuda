@@ -5,6 +5,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mateuszbuda.github.io)
 
 💼 Machine Learning Research Engineer
+
 🎓 PhD candidate at Warsaw University of Technology
+
 🤖 [Narf AI](https://narf.ai)
+
 🚀 [Scraping Fish](https://scrapingfish.com)
+
