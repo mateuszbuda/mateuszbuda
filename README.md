@@ -6,7 +6,7 @@
 
 💼 Machine Learning Research Engineer
 
-🎓 PhD candidate at Warsaw University of Technology
+🎓 PhD in Computer Engineering from Warsaw University of Technology
 
 🤖 [Narf AI](https://narf.ai)
 
