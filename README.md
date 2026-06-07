@@ -12,3 +12,4 @@
 
 🚀 [Scraping Fish](https://scrapingfish.com)
 
+📍 [MamyMiejsce.pl](https://mamymiejsce.pl)
